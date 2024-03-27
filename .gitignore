@@ -1,0 +1,3 @@
+# the things we want to leave private for us will be in gitignore
+node_modules
+.env
